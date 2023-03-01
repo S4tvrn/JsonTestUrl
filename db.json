@@ -1,5 +1,5 @@
-{
-  "Actors": [
+  "Actors": 
+  [
     {
       "name": "Tom Cruise",
       "age": 56,
@@ -13,4 +13,3 @@
       "Birthdate": "April 4, 1965",
     }
   ]
-}
